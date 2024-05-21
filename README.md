@@ -1,2 +1,2 @@
 # Fit-Track
-Fit-Track is all about the workout sessions
+Fit-Track is a project from Full Stack Web Development Course
